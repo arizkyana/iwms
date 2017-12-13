@@ -1,0 +1,31 @@
+@font-face{
+	font-family: Segoe UI;
+	src : url('font/SEGOEUI.TTF');
+}
+
+@font-face{
+	font-family: Segoe WP;
+	src : url('font/SegoeWP-Light.TTF');
+}
+
+@font-face{
+	font-family: "Open Sans";
+	src : url('font/open-sans/OpenSans-Regular.ttf');
+}
+
+body {
+  margin: 0;
+  font-family:Segoe UI;
+}
+
+.asterisk{
+
+	color:red;
+	padding:0px;
+}
+
+.modal{
+	
+   overflow:auto !important;
+   background: rgba(0,0,0,0.3);
+}
